@@ -193,16 +193,6 @@ A digital ecosystem designed to connect farmers, machinery vendors, and agricult
     alt="GitHub Contribution Streak"/>
 </p>
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/stacksolution/stacksolution/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## 🤝 Partner With Us
 
 <p align="center">
